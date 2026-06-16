@@ -11,11 +11,11 @@ export default async function Home() {
         {/* Hero */}
         <section className="mb-16">
           <h1 className="mb-4 text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
-            Apps I&apos;ve built
+            Apps I&apos;ve built.
           </h1>
           <p className="max-w-xl text-lg text-muted-foreground">
-            A small collection of apps. More on the way — I build things that
-            scratch my own itches.
+            A small collection of apps. <br />
+            More on the way — I build things that scratch my own itches.
           </p>
         </section>
 
