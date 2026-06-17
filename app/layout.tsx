@@ -7,8 +7,8 @@ import { Header } from "@/components/header";
 const geist = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Martinedev — Apps",
-  description: "A collection of apps built by Martinedev.",
+  title: "Martine — Apps",
+  description: "A collection of apps built by Martine.",
 };
 
 export default function RootLayout({
